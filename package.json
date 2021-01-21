@@ -10,7 +10,7 @@
     "express-handlebars": "^3.0.0",
     "material-design-lite": "^1.1.2",
     "nedb": "^1.8.0",
-    "socket.io": "^0.9.17",
+    "socket.io": "^2.4.0",
     "speakingurl": "^9.0.0"
   },
   "devDependencies": {
