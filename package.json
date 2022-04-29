@@ -4,7 +4,7 @@
   "description": "A personal goals tracking app provided as a Node.js MVC example - using Express, NeDB and Handlebars.",
   "main": "server.js",
   "dependencies": {
-    "async": "^0.2.10",
+    "async": "^2.6.4",
     "body-parser": "^1.15.0",
     "express": "^4.13.4",
     "express-handlebars": "^3.0.0",
